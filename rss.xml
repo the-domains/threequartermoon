@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ThreeQuartermoon]]></title>
-        <description><![CDATA[ThreeQuartermoon]]></description>
+        <title><![CDATA[ThreeQuartermoon Studio]]></title>
+        <description><![CDATA[ThreeQuartermoon Studio]]></description>
         <link>https://thegrid.ai/threequartermoon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 07:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 08:07:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/threequartermoon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>ThreeQuartermoon Studio is on the Grid! I'l be using this space to put images and posts of inspiration, as well as samples and photos of actual work I have done as well...</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7128d1bd-a633-4212-a55e-0c1529cc99f7.jpg">]]></description>
             <link>https://thegrid.ai/threequartermoon/3ce8049a-50da-4e43-b4e4-839bcb899302/index.html</link>
             <guid isPermaLink="false">3ce8049a-50da-4e43-b4e4-839bcb899302</guid>
-            <pubDate>Wed, 06 Apr 2016 07:47:59 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2016 08:07:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
