@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: 'Threequartemoon Studio specialises in recreations of historical and ancient style jewellery, especially chains, as well as providing a "full range" modern handmade Jewellery service. From resizes and repairs, through to custom designed gold and diamond creations to suit the individual, Threequartermoon can make your desires become reality.'
-datePublished: '2016-04-07T05:07:43.743Z'
-dateModified: '2016-04-07T05:07:38.645Z'
+description: 'ThreeQuarterMoon Studio specialises in recreations of historical and ancient style jewellery, especially chains, as well as providing a "full range" modern handmade Jewellery service. From resizes and repairs, through to custom designed gold and diamond creations to suit the individual, Threequartermoon can make your desires become reality.'
+datePublished: '2016-04-07T06:58:10.393Z'
+dateModified: '2016-04-07T05:10:35.614Z'
 title: ''
 author: []
 authors: []
