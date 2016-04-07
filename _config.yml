@@ -1,4 +1,4 @@
-name: ThreeQuartermoon
+name: ThreeQuartermoon Studio
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.62737
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0a0b09'
-    - '#e8c984'
-    - '#655632'
-    - '#cbb380'
-    - '#b09a66'
+    - '#0a0c09'
+    - '#fffdfa'
+    - '#857c6b'
+    - '#5c513e'
+    - '#c9bca9'
   brandStrength: 0.5085271836724132
   lightness: 0.695421026321128
   saturation: 0.5500806418713182
