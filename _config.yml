@@ -1,7 +1,7 @@
 name: ThreeQuartermoon Studio
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.62737
+layout_spectrum: 0.25605
+typography_spectrum: 0.16365
 title: ThreeQuartermoon Studio
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#997239'
     - '#4b4239'
     - '#d4b176'
-  brandStrength: 0.5085271836724132
-  lightness: 0.695421026321128
-  saturation: 0.5500806418713182
-  rhythmicContrast: 0.12192413629963994
+  brandStrength: 0.625
+  lightness: 0.125
+  saturation: 0.0625
+  rhythmicContrast: 0.5
 purpose: []
